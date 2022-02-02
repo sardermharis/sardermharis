@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sardermharis
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Computer Science and Engineering in DIU.
+- 🌱 I’m currently learning Computer Science and Engineering in DIU
 - 📫 How to reach me, at https://github.com/sardermharis
 
 <!---
